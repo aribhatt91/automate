@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Search</string>
+    <string name="select">Select</string>
+    <string name="action_attach">Attach</string>
+    <string name="action_add">Add</string>
+    <string name="remind_me">Remind me</string>
+    <string name="remind_date_and_time">Reminder set for</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_types">
+        <item>Meeting</item>
+        <item>School/Work</item>
+        <item>Anniversary</item>
+        <item>Reminder</item>
+        <item>Custom</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Automate</string>
+
+    <string name="title_activity_priority_contacts">PriorityContactsActivity</string>
+    <string name="contacts_title">All Contacts</string>
+    <string name="pcontacts_title">Priority Contacts</string>
+
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_create_event">CreateEventActivity</string>
+</resources>

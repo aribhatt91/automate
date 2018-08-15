@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event_name">Name of the Event</string>
+    <string name="event_type">Type of Event</string>
+    <string name="search_hint">Search..</string>
+</resources>
